@@ -8,6 +8,7 @@ You can play this game at the following places (when ready):
 
 - [GitHub Pages](https://smilynarwhal77.github.io/incremental-i/)
 - [Netlify](https://incremental-dimensions.netlify.app/)
+ --
   More to come soon!
 ---
 
