@@ -7,7 +7,8 @@ This is an incremental game where you can progress by clicking and upgrading you
 You can play this game at the following places (when ready):
 
 - [GitHub Pages](https://smilynarwhal77.github.io/incremental-i/)
-- [Your Website](https://incremental-dimensions.netlify.app/)
+- [Netlify](https://incremental-dimensions.netlify.app/)
+  More to come soon!
 ---
 
 ## About
